@@ -103,6 +103,9 @@ sector_metrics, exchange_characteristics = sector_analyzer.analyze_sectors()
 ```
 - Compares SSE and SZSE performance
 
+6. All data from Yahoo Finance(https://finance.yahoo.com/)
+   You can search for data for companies by typing something like '600519.SS', '601318.SS', '600036.SS', '601398.SS', '600276.SS', '000858.SZ', '000333.SZ', '000651.SZ', '000002.SZ', '002594.SZ'
+
 ### Customizing Analysis Parameters
 Adjust analysis parameters in the `Config` class:
 ```python
