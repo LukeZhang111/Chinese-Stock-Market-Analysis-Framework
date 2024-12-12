@@ -21,7 +21,7 @@ statsmodels
 
 1. Install required packages:
 ```bash
-pip install pandas numpy matplotlib seaborn yfinance scipy statsmodels
+pip install pandas numpy yfinance pandas-datareader matplotlib seaborn scipy statsmodels tensorflow scikit-learn
 ```
 
 ## Running the Analysis
